@@ -35,9 +35,10 @@ crystal_stars_for_bowser - Normally 29, you can set this to not require collecti
 # How to play
 This can be found in the Readme of the release as well.
 
-1. You can find the apworld and a test YAML in the "Archipelago" folder in the same directory as this readme. Make sure your host has installed the apworld before generating.
-2. Place a legally obtained US ROM of Super Mario 64 in the same directory as "sm64.smex.exe" (In the "Game" folder)
-3. Open the game
-4. Once your Archipelago is being hosted, use your controller to select the "Archipelago" option at the bottom of the main menu
-5. Select the fields and use your keyboard to input the correct information to connect, then press "Connect"
-6. You can select a file in the "Play" menu, but I prefer pressing the Start button to skip the intro cutscene on "Play without saving." The apworld will load what you've already gotten.
+1. Download the latest [SM64AP-OMM.zip.](https://github.com/CosmoGray/sm64ap-omm/releases)
+2. You can find the apworld and a test YAML in the "Archipelago" folder in the same directory as this readme. Make sure your host has installed the apworld before generating.
+3. Place a legally obtained US ROM of Super Mario 64 in the same directory as "sm64.smex.exe" (In the "Game" folder)
+4. Open the game
+5. Once your Archipelago is being hosted, use your controller to select the "Archipelago" option at the bottom of the main menu
+6. Select the fields and use your keyboard to input the correct information to connect, then press "Connect"
+7. You can select a file in the "Play" menu, but I prefer pressing the Start button to skip the intro cutscene on "Play without saving." The apworld will load what you've already gotten.
